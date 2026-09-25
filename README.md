@@ -27,6 +27,5 @@ Kaggle: [WikiArt dataset](https://www.kaggle.com/datasets/steubk/wikiart)
 ├── README.md
 └── WikiArt/
     └── wikiart/versions/1/
-        ├── classes.csv
         └── <dirs with styles>
 ```
