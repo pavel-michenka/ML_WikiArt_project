@@ -1,7 +1,7 @@
 # WikiArt Style Classification
 
 
-## Instalace
+## Virtual environment and requirements
 
 ```bash
 python3 -m venv venv
